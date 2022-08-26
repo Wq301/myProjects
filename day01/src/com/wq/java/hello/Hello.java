@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("Hello World22222!");
         System.out.println("Hello World33333!");
         System.out.println("Hello World hot-fix!");
+        System.out.println("merge master!");
     }
 }
 
