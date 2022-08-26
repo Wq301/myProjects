@@ -9,6 +9,7 @@ public class Hello {
         System.out.println("merge master!");
         System.out.println("merge hot-fix!");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
 
